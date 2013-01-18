@@ -216,7 +216,7 @@ namespace Task_Manager
 
             else if (activeFilters.Contains("Current Week"))
             {
-                int offset = getDayOfTheWeekOffset();
+                int offset = GetDayOfTheWeekOffset();
                 if (task.date.Date >= System.DateTime.Today.AddDays(-offset).Date
                     && task.date.Date <= System.DateTime.Today.AddDays(6 - offset).Date)
                 {
@@ -225,7 +225,7 @@ namespace Task_Manager
             }
             else if (activeFilters.Contains("Next Week"))
             {
-                int offset = getDayOfTheWeekOffset();
+                int offset = GetDayOfTheWeekOffset();
                 if (task.date.Date >= System.DateTime.Today.AddDays(-offset + 7).Date
                     && task.date.Date <= System.DateTime.Today.AddDays(6 - offset + 7).Date)
                 {
@@ -259,7 +259,7 @@ namespace Task_Manager
         /// Gets the day of the week offset.
         /// </summary>
         /// <returns>The offset</returns>
-        private int getDayOfTheWeekOffset()
+        private int GetDayOfTheWeekOffset()
         {
             int offset;
             if (System.DateTime.Today.DayOfWeek == System.DayOfWeek.Sunday)

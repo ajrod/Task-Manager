@@ -19,3 +19,5 @@ C:\Users\Arod-Desktop\MyPrograms\C# and XNA\Task_Manager\Task_Manager\obj\x86\De
 C:\Users\Arod-Desktop\MyPrograms\C# and XNA\Task_Manager\Task_Manager\obj\x86\Debug\Task_Manager.Properties.Resources.resources
 C:\Users\Arod-Desktop\MyPrograms\C# and XNA\Task_Manager\Task_Manager\obj\x86\Debug\Task_Manager.csproj.GenerateResource.Cache
 C:\Users\Arod-Desktop\MyPrograms\C# and XNA\Task_Manager\Task_Manager\obj\x86\Debug\Task_Manager.csprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Task-Manager\Task_Manager\Task_Manager\obj\x86\Debug\Task Manager 2011.exe
+C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Task-Manager\Task_Manager\Task_Manager\obj\x86\Debug\Task Manager 2011.pdb
