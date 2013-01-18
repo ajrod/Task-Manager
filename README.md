@@ -13,3 +13,6 @@ ______
 This project is written in C#. There is a .sln in the repository if you have microsoft visual studio.
 If you just want to run the project you can find the executable at 
 Task-Manager/Task_Manager/Task_Manager/bin/Debug/Task Manager 2011.exe
+
+Don't have microsoft visual studio but still want to see the source? All the source files are located in repository
+at Task-Manager/Task_manager/Task_Manager
