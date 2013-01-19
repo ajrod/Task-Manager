@@ -19,7 +19,7 @@ How to run the project
 This project is written in C# on the .net framework. There is a .sln in the repository if you have Microsoft Visual Studio.
 
 If you just want to run the project you can find the executable at 
-Task-Manager/Task_Manager/Task_Manager/bin/Debug/Task Manager 2011.exe
+Task-Manager/Task_Manager/bin/Debug/Task Manager 2011.exe
 
 Don't have Microsoft Visual Studio but still want to see the source? All the source files are located in repository
-at Task-Manager/Task_manager/Task_Manager. Although you can always get the C# express version of MVS for free.
+at Task-Manager/Task_Manager. Although you can always get the C# express version of MVS for free.
